@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "EventForce",
+  "namespace": "",
+  "sourceApiVersion": "67.0"
+}
