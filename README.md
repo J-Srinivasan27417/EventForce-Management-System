@@ -5,9 +5,9 @@ Salesforce team project for managing events, clients, vendors, venues, and feedb
 ## Review the project
 
 - [Project Document](Project%20Document/EventForce_Project_Report.pdf): implementation report, screenshots and testing evidence.
-- [Code Files](Code%20Files): available Apex classes, tests, trigger, field metadata and fictional sample CSVs.
+- [Code Files](https://github.com/J-Srinivasan27417/EventForce-Management-System/tree/main/Code%20Files): available Apex classes, tests, trigger, field metadata and fictional sample CSVs.
 
-- [Phase-wise Documents](Phase-wise%20Documents): five phase documents covering planning, backend, UI, testing/security and deployment/maintenance.
+- [Phase-wise Documents](https://github.com/J-Srinivasan27417/EventForce-Management-System/tree/main/Phase-wise%20Documents): five phase documents covering planning, backend, UI, testing/security and deployment/maintenance.
 
 ## Features
 
@@ -32,3 +32,4 @@ The daily batch completes past events whose status is not Completed, including C
 ## Data
 
 The CSV files contain fictional training records. Credentials and Salesforce authentication files must not be committed.
+
